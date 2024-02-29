@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../hochtml2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Hochtml"
+  }
+}
